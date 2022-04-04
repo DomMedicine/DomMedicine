@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @DomMedicine
-- 👀 I’m interested in Biostatistics
-- 🌱 I’m currently a teaching assistant at UMB
-- 📫 Just write here
+- 👋 Hi. My name is Dominik Nowakowski. Currently I am a lecturer at the Medical University of Bialystok. I graduated in mathematics in the specialty of data analysis.

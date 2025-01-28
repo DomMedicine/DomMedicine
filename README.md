@@ -1,1 +1,1 @@
-- 👋 Hi. My name is Dominik Nowakowski. Currently I am a lecturer at the Medical University of Bialystok. I graduated in mathematics in the specialty of data analysis.
+- 👋 Hi. My name is Dominik
